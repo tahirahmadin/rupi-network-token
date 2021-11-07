@@ -1,6 +1,7 @@
 # rupi-network-token
-Created a RUPI Network Token contract using Remix on Ethereum BlockChain.
+Created a RUPI Network Token contract using Remix on Ethereum BlockChain and added liquidity for Swap on Uniswap at Kovan Testnet.
 
+![Uniswap Preview](uniswap_preview.png)
 ## Deploy Token on Remix
 
 1. Compile and deploy contracts on JVM to check all is working well.
